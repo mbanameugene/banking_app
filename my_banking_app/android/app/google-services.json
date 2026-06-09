@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453333758018",
+    "project_id": "eugene-banking-app-4fe92",
+    "storage_bucket": "eugene-banking-app-4fe92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453333758018:android:e75a58db651fc455df7ddb",
+        "android_client_info": {
+          "package_name": "com.eugene.my_banking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1bUB7ONCmube4W3vKy-vpuH4zlAc6nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453333758018:android:f03c787312b156d6df7ddb",
+        "android_client_info": {
+          "package_name": "com.example.my_banking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1bUB7ONCmube4W3vKy-vpuH4zlAc6nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
